@@ -310,5 +310,16 @@
     "name": "Hadis Shamakhteh",
     "linkedin": "https://www.linkedin.com/in/hadis-shamakhte-679147282",
     "avatar": "https://github.com/Hadiishee.png"
-  }
+  },
+  {
+  "name": "مریم جلیلیان",
+  "linkedin": "https://www.linkedin.com/in/maryamjalilian/",
+  "avatar": "https://github.com/marjalilian.png",
+  "education": [
+    "کارشناسی مهندسی کامپیوتر، دانشگاه رازی"
+  ],
+  "experience": [
+    "تحلیلگر سیستم"
+  ]
+}
 ]
